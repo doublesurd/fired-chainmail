@@ -12,7 +12,6 @@ public class FiredChainmailMain implements ModInitializer {
 	public static final Item UNFIRED_CHAINMAIL_CHESTPLATE_ITEM = new Item(new Item.Settings().group(ItemGroup.MISC));
 	public static final Item UNFIRED_CHAINMAIL_LEGGINGS_ITEM = new Item(new Item.Settings().group(ItemGroup.MISC));
 	public static final Item UNFIRED_CHAINMAIL_BOOTS_ITEM = new Item(new Item.Settings().group(ItemGroup.MISC));
-    // an instance of our new item
 	@Override
 	public void onInitialize() {
         Registry.register(Registry.ITEM, new Identifier("firedchainmail", "chainmail"), CHAINMAIL_ITEM);	
