@@ -1,0 +1,8 @@
+    {
+      "type": "minecraft:smelting",
+      "ingredient": {
+		"item": "firedchainmail:chainmail_leggings_unfired"
+	  },
+      "result": "minecraft:chainmail_leggings",
+	  "experience": 3
+    }
