@@ -1,6 +1,0 @@
-{
-  "parent": "item/generated",
-  "textures": {
-    "layer0": "firedchainmail:item/chainmail_leggings_unfired"
-  }
-}
